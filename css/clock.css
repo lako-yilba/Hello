@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Catamaran:wght@100..900&display=swap');
+
+
+  
+
+#clock {
+    color: #fff;
+    font-family: "Bungee Shade", sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+}
